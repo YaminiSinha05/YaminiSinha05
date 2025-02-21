@@ -26,8 +26,8 @@ Hi there 👋
 - ![JavaScript](https://img.icons8.com/color/30/000000/javascript.png) JavaScript  
 
 -#### ⚡ IoT & Embedded Systems  
-![ESP32](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESP-WROOM-32_.jpg/120px-ESP-WROOM-32_.jpg) **ESP32**  
-![STM32](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/STM32F103.jpg/120px-STM32F103.jpg) **STM32**  
+- ![ESP32](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ESP-WROOM-32_.jpg/120px-ESP-WROOM-32_.jpg) **ESP32**  
+- ![STM32](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/STM32F103.jpg/120px-STM32F103.jpg) **STM32**  
 - ![Arduino](https://img.icons8.com/color/30/000000/arduino.png) Arduino  
 
 #### 🌐 Web Development  
