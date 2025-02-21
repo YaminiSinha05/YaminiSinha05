@@ -16,18 +16,26 @@ Hi there 👋
 ✅ CPU Scheduler with Gantt Chart UI – Visualizing scheduling algorithms
 
 
-### 🚀 Tech Stack  
+### 🛠️ Tech Stack  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+#### 💻 Programming  
+- ![Python](https://img.icons8.com/color/30/000000/python.png) Python  
+- ![Java](https://img.icons8.com/color/30/000000/java-coffee-cup-logo.png) Java  
+- ![C](https://img.icons8.com/color/30/000000/c-programming.png) C  
+- ![C++](https://img.icons8.com/color/30/000000/c-plus-plus-logo.png) C++  
+- ![JavaScript](https://img.icons8.com/color/30/000000/javascript.png) JavaScript  
 
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)  
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)  
+#### ⚡ IoT & Embedded Systems  
+- ![ESP32](https://img.icons8.com/color/30/000000/microchip.png) ESP32  
+- ![STM32](https://img.icons8.com/color/30/000000/microchip.png) STM32  
+- ![Arduino](https://img.icons8.com/color/30/000000/arduino.png) Arduino  
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+#### 🌐 Web Development  
+- ![HTML](https://img.icons8.com/color/30/000000/html-5.png) HTML  
+- ![CSS](https://img.icons8.com/color/30/000000/css3.png) CSS  
+- ![React](https://img.icons8.com/officel/30/000000/react.png) ReactJS  
+- ![Node.js](https://img.icons8.com/color/30/000000/nodejs.png) Node.js  
+- ![MySQL](https://img.icons8.com/color/30/000000/mysql-logo.png) MySQL  
+- ![Docker](https://img.icons8.com/color/30/000000/docker.png) Docker  
+
 
