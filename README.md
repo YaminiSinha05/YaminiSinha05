@@ -25,7 +25,7 @@ Hi there 👋
 - ![C++](https://img.icons8.com/color/30/000000/c-plus-plus-logo.png) C++  
 - ![JavaScript](https://img.icons8.com/color/30/000000/javascript.png) JavaScript  
 
--#### ⚡ IoT & Embedded Systems  
+- ⚡ IoT & Embedded Systems  
 - **ESP32**  
 - **STM32**  
 - ![Arduino](https://img.icons8.com/color/30/000000/arduino.png) Arduino  
